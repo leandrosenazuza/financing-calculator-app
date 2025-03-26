@@ -1,0 +1,101 @@
+{
+    "tabelaLabel": "7299d0p2",
+    "data":  [
+      {
+        "type": "Debito",
+        "Visa/master": 0.9861,
+        "ELO": 0.9811
+      },
+      {
+        "type": "Cred a vista",
+        "Visa/master": 0.9661,
+        "ELO": 0.9645
+      },
+      {
+        "type": "2x",
+        "Visa/master": 0.9566,
+        "ELO": 0.946
+      },
+      {
+        "type": "3x",
+        "Visa/master": 0.9492,
+        "ELO": 0.9386
+      },
+      {
+        "type": "4x",
+        "Visa/master": 0.942,
+        "ELO": 0.9314
+      },
+      {
+        "type": "5x",
+        "Visa/master": 0.9348,
+        "ELO": 0.9242
+      },
+      {
+        "type": "6x",
+        "Visa/master": 0.9277,
+        "ELO": 0.9171
+      },
+      {
+        "type": "7x",
+        "Visa/master": 0.9196,
+        "ELO": 0.9075
+      },
+      {
+        "type": "8x",
+        "Visa/master": 0.9126,
+        "ELO": 0.9005
+      },
+      {
+        "type": "9x",
+        "Visa/master": 0.9057,
+        "ELO": 0.8936
+      },
+      {
+        "type": "10x",
+        "Visa/master": 0.8988,
+        "ELO": 0.8867
+      },
+      {
+        "type": "11x",
+        "Visa/master": 0.8921,
+        "ELO": 0.88
+      },
+      {
+        "type": "12x",
+        "Visa/master": 0.8854,
+        "ELO": 0.8733
+      },
+      {
+        "type": "13x",
+        "Visa/master": 0.8726,
+        "ELO": 0.8641
+      },
+      {
+        "type": "14x",
+        "Visa/master": 0.8661,
+        "ELO": 0.8576
+      },
+      {
+        "type": "15x",
+        "Visa/master": 0.8595,
+        "ELO": 0.851
+      },
+      {
+        "type": "16x",
+        "Visa/master": 0.8531,
+        "ELO": 0.8446
+      },
+      {
+        "type": "17x",
+        "Visa/master": 0.8467,
+        "ELO": 0.8382
+      },
+      {
+        "type": "18x",
+        "Visa/master": 0.8404,
+        "ELO": 0.8319
+      }
+    ]
+  }
+  
